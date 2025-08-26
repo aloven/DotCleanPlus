@@ -1,0 +1,6 @@
+{
+"label":	"DotCleanPlus",
+"icon":	"icon/icon.png",
+"launch":	"launch.sh",
+"description":	"Delete MacOS artifact files"
+}
