@@ -2,7 +2,7 @@
 Clean up MacOS artifacts from the device.
 
 ## How it works
-Removes all the macOS artifacts: `.DS_Store`, `._*` files, `.Trashes`, `.Spotlight-V100`, and `.fseventsd`
+Removes all the macOS artifacts: `.DS_Store`, `._*` files, `.Trashes`, `.VolumeIcons.icns`, `.Spotlight-V100`, and `.fseventsd`
 
 Searches recursively through all directories, including hidden ones
 
